@@ -5,3 +5,5 @@
 修改main.py部分代码
 增加predict.py，将main部分的test修改为predict
 增加使用openvino进行推理
+将以上两个部分当做服务器处理
+更改部分参数
